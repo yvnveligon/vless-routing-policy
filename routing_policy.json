@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-30T00:00:00Z",
+  "dnsServers": [
+    {
+      "address": "77.88.8.8",
+      "domains": [
+        "geosite:category-ru",
+        "geosite:private"
+      ],
+      "port": 53
+    },
+    {
+      "address": "8.8.8.8"
+    },
+    {
+      "address": "1.1.1.1"
+    }
+  ],
+  "dnsHosts": {
+    "lkfl2.nalog.ru": "213.24.64.175",
+    "lknpd.nalog.ru": "213.24.64.181"
+  },
+  "blockDomains": [
+    "geosite:win-spy",
+    "geosite:torrent",
+    "geosite:category-ads"
+  ],
+  "proxyDomains": [
+    "geosite:google-play",
+    "geosite:github",
+    "geosite:twitch-ads",
+    "geosite:youtube",
+    "geosite:telegram"
+  ],
+  "directDomains": [
+    "geosite:private",
+    "geosite:category-ru",
+    "geosite:whitelist",
+    "geosite:microsoft",
+    "geosite:apple",
+    "geosite:epicgames",
+    "geosite:riot",
+    "geosite:escapefromtarkov",
+    "geosite:steam",
+    "geosite:twitch",
+    "geosite:pinterest",
+    "geosite:faceit",
+    "domain:2ip.ru",
+    "domain:2ip.io"
+  ],
+  "directIPs": [
+    "geoip:private",
+    "geoip:direct"
+  ]
+}
