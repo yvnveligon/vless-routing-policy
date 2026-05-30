@@ -33,6 +33,12 @@
     "geosite:youtube",
     "geosite:telegram"
   ],
+  "directDomainPorts": [
+    {
+      "domain": "domain:easy.cdnfront.work",
+      "port": "443"
+    }
+  ],
   "directDomains": [
     "geosite:private",
     "geosite:category-ru",
@@ -46,7 +52,6 @@
     "geosite:twitch",
     "geosite:pinterest",
     "geosite:faceit",
-    "domain:easy.cdnfront.work",
     "domain:2ip.ru",
     "domain:2ip.io"
   ],
