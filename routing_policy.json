@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-05-30T10:30:00Z",
+  "version": 4,
+  "updatedAt": "2026-05-30T11:00:00Z",
   "dnsServers": [
     {
       "address": "77.88.8.8",
@@ -21,6 +21,9 @@
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
   },
+  "tunBypassDomains": [
+    "domain:easy.cdnfront.work"
+  ],
   "blockDomains": [
     "geosite:win-spy",
     "geosite:torrent",
@@ -46,7 +49,6 @@
     "geosite:twitch",
     "geosite:pinterest",
     "geosite:faceit",
-    "domain:easy.cdnfront.work",
     "domain:2ip.ru",
     "domain:2ip.io"
   ],
