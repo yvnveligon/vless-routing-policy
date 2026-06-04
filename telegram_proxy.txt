@@ -1,1 +1,1 @@
-tg://proxy?server=easyforlifedev.online&port=443&secret=ee6c1e7d18d33548902992b2fb195ec650646f6d2e7275
+tg://proxy?server=82.40.62.3&port=443&secret=ee6c1e7d18d33548902992b2fb195ec650646f6d2e7275
