@@ -1,1 +1,1 @@
-tg://proxy?server=tg02.nerabotaet.com&port=443&secret=7m_oKK7tV_-S0fxXLKbEvidwZXRyb3ZpY2gucnU
+tg://proxy?server=rocket.flowaccess.site&port=443&secret=7gPT0bm9qDI5Bmm8BhZ3INhyb2NrZXQuZmxvd2FjY2Vzcy5zaXRl
