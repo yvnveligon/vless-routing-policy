@@ -1,1 +1,1 @@
-tg://proxy?server=rocket.flowaccess.site&port=443&secret=7gPT0bm9qDI5Bmm8BhZ3INhyb2NrZXQuZmxvd2FjY2Vzcy5zaXRl
+tg://proxy?server=87.248.129.105&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20
