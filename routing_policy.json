@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-06-24T00:00:00Z",
+  "version": 7,
+  "updatedAt": "2026-07-15T00:00:00Z",
   "dnsServers": [
     {
       "address": "77.88.8.8",
@@ -24,7 +24,8 @@
   "tunBypassDomains": [
     "domain:easy.cdnfront.work",
     "domain:easyforlifedev.online",
-    "domain:easy2.cdnfront.work"
+    "domain:easy2.cdnfront.work",
+    "domain:qw.cdnfront.work"
   ],
   "blockDomains": [
     "geosite:win-spy",
