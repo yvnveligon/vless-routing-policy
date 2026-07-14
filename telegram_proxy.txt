@@ -1,1 +1,1 @@
-tg://proxy?server=easy2.cdnfront.work&port=443&secret=eed9424130fb8e66eefa851affc8c68165646f6d2e7275
+tg://proxy?server=103.27.157.144&port=443&secret=ee6491a4d6cdcf948fb48e3d241b2ec22d74656c656d6f73742e79616e6465782e7275
